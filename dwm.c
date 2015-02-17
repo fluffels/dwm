@@ -266,6 +266,7 @@ static Drw *drw;
 static Fnt *fnt;
 static Monitor *mons, *selmon;
 static Window root;
+static char dmenumon[2] = "0"; /* component of dmenucmd, manipulated in spawn() */
 
 /* configuration, allows nested code to access above variables */
 #include "config.h"
