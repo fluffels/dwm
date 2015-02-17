@@ -1,3 +1,9 @@
+Fork Notice
+===========
+
+This is my personal fork of dwm containing my configuration changes and patches
+that I've applied.
+
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
