@@ -52,7 +52,7 @@ static const Layout layouts[] = {
 
 /* commands */
 static const char *dmenucmd[] = { "dmenu_run", "-fn", font, "-nb", normbgcolor, "-nf", normfgcolor, "-sb", selbgcolor, "-sf", selfgcolor, NULL };
-static const char *termcmd[]  = { "/home/jan/src/st/st", NULL };
+static const char *termcmd[]  = { "urxvt", NULL };
 static const char *xlockcmd[] = { "slimlock", NULL };
 static const char *thunarcmd[] = { "thunar", NULL };
 
